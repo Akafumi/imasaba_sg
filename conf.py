@@ -63,7 +63,4 @@ blockdiag_fontpath \
         '/usr/share/fonts/opentype/ipaexfont-gothic/ipaexg.ttf',
         '/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf',
         '/usr/share/fonts/truetype/vlgothic/VL-Gothic-Regular.ttf'
-        '/system/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc',  # For Mac
-        '/usr/share/fonts/ipa-gothic/ipag.ttf',  # IPA Gothic on Redhat
-        '/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf',  # IPA Gothic on Debian
     ]
